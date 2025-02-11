@@ -1,0 +1,15 @@
+{
+  "name": "rapid-category-long-ssfo0",
+  "productName": "rapid-category-long-ssfo0",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "zohan",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.3.0"
+  }
+}
